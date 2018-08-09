@@ -1,6 +1,6 @@
 # Logistic Regression
 ## Using Admissions Data 
-* This notebook exlores classification methods with Logistic Regression Models using the Scikit-Learn library in order to predict probabilities of college admittance.
+* This notebook explores classification methods with Logistic Regression Models using the Scikit-Learn library in order to predict probabilities of college admittance.
 * The dataset utilized contains binary information indicating whether or not a student was admitted in addition to other features such as GRE scores, GPA, and prestige.
 
 ## Overview
