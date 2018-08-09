@@ -11,7 +11,7 @@
 - Comparing/contrasing Linear Regression and Logistic Regression Models
   - Linear qualities in both
   - Different ranges being predicted 
-- Describing the purpose for process and process of transform regression models to predict binary classes with the Logit Link Functio 
+- Describing the purpose for process and process of transforming regression models with the Logit Link Function in order to predict binary classes 
 
 ### Predicting College Admittance
 - Using Linear Regression
