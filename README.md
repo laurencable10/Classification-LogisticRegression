@@ -9,7 +9,9 @@
 
 ### Predicting Binary Classes
 - Comparing/contrasing Linear Regression and Logistic Regression Models
-- Describing the purpose and application of Logit Link Functions in order to transform regression models to predict binary classes 
+  - Linear qualities in both
+  - Different ranges being predicted 
+- Describing the purpose for process and process of transform regression models to predict binary classes with the Logit Link Functio 
 
 ### Predicting College Admittance
 - Using Linear Regression
